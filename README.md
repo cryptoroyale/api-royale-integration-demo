@@ -111,8 +111,7 @@ if(!perms.increment){
 
 Users can change their permissions for your application by going to the link that looks like this: `https://cryptoroyale.one/apps/?id=APP_ID`, where APP_ID is the first 5 characters of your API key.
 
-
-https://gist.github.com/assets/112904613/c90b3ea8-9835-4ea3-a030-40b207315551
+![Withdraw to any blockchain](https://github.com/cryptoroyale/api-royale-integration-demo/assets/112904613/835cb8fb-324e-4dbd-9446-b0d9e73d60fc)
 
 
 ### Business model proposals
