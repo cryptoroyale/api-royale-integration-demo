@@ -111,6 +111,8 @@ if(!perms.increment){
 
 Users can change their permissions for your application by going to the link that looks like this: `https://cryptoroyale.one/apps/?id=APP_ID`, where APP_ID is the first 5 characters of your API key.
 
+https://github.com/cryptoroyale/api-royale-integration-demo/assets/112904613/0a58dea6-bffa-4bb1-a2bc-f642d82b08e5
+
 ### Business model proposals
 
 By using `decrement` and `increment` operations, you can create games that are self-sustaining, relying on player entry fees for each game. You can implement any payment and reward operation in this way. The possibilities are limited only by your imagination.
