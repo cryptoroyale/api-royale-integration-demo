@@ -111,9 +111,6 @@ if(!perms.increment){
 
 Users can change their permissions for your application by going to the link that looks like this: `https://cryptoroyale.one/apps/?id=APP_ID`, where APP_ID is the first 5 characters of your API key.
 
-![Withdraw to any blockchain](https://github.com/cryptoroyale/api-royale-integration-demo/assets/112904613/835cb8fb-324e-4dbd-9446-b0d9e73d60fc)
-
-
 ### Business model proposals
 
 By using `decrement` and `increment` operations, you can create games that are self-sustaining, relying on player entry fees for each game. You can implement any payment and reward operation in this way. The possibilities are limited only by your imagination.
@@ -127,7 +124,7 @@ For instance, the demo game could be expanded to include in-game ship upgrades t
 *  **Find players:** Tap into an existing playerbase with over 8,000+ unique weekly players
 *  **Community:** 70k+ members in discord and an active development community
 
-![Withdraw to any blockchain](https://gist.github.com/assets/112904613/a81ab638-6db1-41be-a923-a48f69feea3c)
+![Withdraw to any blockchain](https://github.com/cryptoroyale/api-royale-integration-demo/assets/112904613/835cb8fb-324e-4dbd-9446-b0d9e73d60fc)
 
 ## Getting Started
 *  **Explore:** Visit [Crypto Royale](https://cryptoroyale.one) to understand the platform.
