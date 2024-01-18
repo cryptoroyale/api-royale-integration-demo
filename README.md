@@ -121,7 +121,7 @@ For instance, the demo game could be expanded to include in-game ship upgrades t
 
 
 ## Benefits of Partnering with Crypto Royale
-*  **Funding:** Get paid directly for your games contribution to the ecosystem
+*  **Funding:** Get paid directly for your game's contribution to the ecosystem
 *  **Monetization:** Lowest friction monetization of your game
 *  **Find players:** Tap into an existing playerbase with over 8,000+ unique weekly players
 *  **Community:** 70k+ members in discord and an active development community
