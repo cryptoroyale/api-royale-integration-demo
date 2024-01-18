@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Demo App Login Page</title>
+    </head>
+    <body>
+        <div>
+            <h2>Welcome to Demo Game!</h2>
+            <p><a href="<%-oauth_url%>">Link your discord to play the game</a></p>
+            <% if (typeof error_msg !== 'undefined') { %>
+                <h4 style="color: red;"><%= error_msg %></h4>
+            <% } %>
+            <p><a target="_blank" href="<%-perms_url%>">Set up your permissions here</a></p>
+        </div>
+    </body>
+</html>
